@@ -88,6 +88,7 @@ export default {
       for (var i = 0; i < this.squares.length; i++) {
         this.squares[i] = color
       }
+
       console.log(this.squares)
     }
   },
